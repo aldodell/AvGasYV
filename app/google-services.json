@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "1034657715124",
+    "firebase_url": "https://avgasyv.firebaseio.com",
+    "project_id": "avgasyv",
+    "storage_bucket": "avgasyv.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1034657715124:android:29394bc896fa180f",
+        "android_client_info": {
+          "package_name": "philosophicas.org.avgasyv"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1034657715124-4u1uqun6hc9673cco2v06loatsjgnhlo.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "philosophicas.org.avgasyv",
+            "certificate_hash": "153d1c958fb4fe73a7c7408a4b03dbb2c117a029"
+          }
+        },
+        {
+          "client_id": "1034657715124-kuqqecl8djpub7600h61lrj85iu4vokm.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDQd2uIgLC1NNyodCGY0PD1TN8mZkA7DhQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1034657715124-kuqqecl8djpub7600h61lrj85iu4vokm.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
